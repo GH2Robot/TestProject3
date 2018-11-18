@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Local settings (.vs)",
+    "\\Local settings (.vs)\\TestProject3",
+    "\\Local settings (.vs)\\TestProject3\\v15"
   ],
-  "SelectedNode": "\\README.md",
+  "SelectedNode": "\\Local settings (.vs)\\TestProject3\\v15\\.suo",
   "PreviewInSolutionExplorer": false
 }
