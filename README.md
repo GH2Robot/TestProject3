@@ -2,5 +2,3 @@
 Created in VS
 
 Testing commit
-
-Some text
